@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1618185838 source:c:\users\iori999\desktop\poo\c++\ejemplofiguras\calculadoradefiguras\main.cpp
+	<iostream>
+	"Cuadrado.h"
+	"Figura.h"
+
+1618185798 source:c:\users\iori999\desktop\poo\c++\ejemplofiguras\calculadoradefiguras\figura.cpp
+	<iostream>
+	"Cuadrado.h"
+	"Figura.h"
+
+1618184002 c:\users\iori999\desktop\poo\c++\ejemplofiguras\calculadoradefiguras\figura.h
+
+1618185575 source:c:\users\iori999\desktop\poo\c++\ejemplofiguras\calculadoradefiguras\cuadrado.cpp
+	<iostream>
+	"Cuadrado.h"
+
+1618801800 c:\users\iori999\desktop\poo\c++\ejemplofiguras\calculadoradefiguras\cuadrado.h
+	"Figura.h"
+
